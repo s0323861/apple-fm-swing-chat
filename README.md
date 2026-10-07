@@ -127,7 +127,3 @@ This application invokes the system model exposed by Apple's `fm` tool and does 
 - There is no search, export, or rename function for conversations.
 - The application bundle depends on a separately installed Java runtime.
 - This is a prototype and has not been prepared for Mac App Store distribution.
-
-## License
-
-No open-source license is included yet. Add a `LICENSE` file before publishing if you want others to copy, modify, or redistribute the code.
