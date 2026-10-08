@@ -1,5 +1,7 @@
 # Mac Local LLM Chat
 
+![Application Demo](demo.png)
+
 A lightweight Java Swing chat interface for the Apple Foundation Models command-line tool included with macOS 27.
 
 The project provides a familiar desktop chat UI for Apple's on-device language model, including streamed responses, persistent conversation history, conversation switching, and cancellation. It uses only the Java standard library and the system-provided `fm` command.
